@@ -7,24 +7,24 @@ console.log("I'm awesome");
 
 //Lesson 3
 //Declare x 
-var x;  
+let;  
 x = 10;
 console.log(x);
 
 //e.g
-var a = 10;
-var b = 5;
+let a = 10;
+let b = 5;
 let c = 10 + 5;
 console.log(z);
 
 // x value
-var x = 10;
+let x = 10;
 console.log("The value of x is " + x);
 
 
 // y // Lesson 4
-var y ;
-var y = "Jim"; // my string
+let y ;
+let y = "Jim"; // my string
 console.log("This is a string " +  y);
 
 //eg // my new string obj
@@ -39,10 +39,10 @@ console.log(y2);
 // {name: 'James'}
 
 // Rounding number - Lesson 5//
-var z = 7.25;
+let= 7.25;
 console.log(z);
 
-var a = Math.round(7.25);
+let= Math.round(7.25);
 console.log(a);
 
 //highest value// 1st way
@@ -102,7 +102,7 @@ if (typeof foo , typeof person ) {
 }
 console.log(foo = person);
 
-//lesson 9 // change from x to letter (s) because errors return with declared x
+//lesson 9  
 let X = 7;
  X = 7 % 3;
 console.log(X); // (X is 7) = 7 % 3 = 1; 
